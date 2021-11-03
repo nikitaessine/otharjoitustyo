@@ -1,0 +1,93 @@
+commit 497739c749ae298f47e47fe322de6708035bab58
+Author: Nikita Essine <nikita.essine@helsinki.fi>
+Date:   Wed Nov 3 12:35:01 2021 +0200
+
+    harjoitusta
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 3cf76a9113266307dba941d53fe31f87cf6fc0e6
+Author: Nikita Essine <nikita.essine@helsinki.fi>
+Date:   Wed Nov 3 12:24:25 2021 +0200
+
+    muutoksia eka ja kolmas
+
+ eka.txt    | 3 +++
+ kolmas.txt | 1 +
+ 2 files changed, 4 insertions(+)
+
+commit 8bfb0085446b65f397d849838b1d76b9558cd45d
+Author: Nikita Essine <nikita.essine@helsinki.fi>
+Date:   Wed Nov 3 12:22:47 2021 +0200
+
+    uudelleennimeäminen
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9c0a193764c98b4702653d1bcc46a3a8afc27e63
+Author: Nikita Essine <nikita.essine@helsinki.fi>
+Date:   Wed Nov 3 12:21:49 2021 +0200
+
+    toinen poistettu
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit b13da579d1d3735fa3f60175adf1253d948c477c
+Author: Nikita Essine <nikita.essine@helsinki.fi>
+Date:   Wed Nov 3 12:18:06 2021 +0200
+
+    poistettu ja lisätty tekstiä
+
+ tiedosto.txt | 17 +++++++++++++++--
+ 1 file changed, 15 insertions(+), 2 deletions(-)
+
+commit f2b9612dd4bb87f6589160df6ee157705e8b4026
+Author: Nikita Essine <nikita.essine@helsinki.fi>
+Date:   Wed Nov 3 12:16:40 2021 +0200
+
+    tekstiä lisätty
+
+ tiedosto.txt | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+commit 5ede81a392de9445dd2c088598e8de1b55e9a590
+Author: Nikita Essine <nikita.essine@helsinki.fi>
+Date:   Wed Nov 3 12:11:45 2021 +0200
+
+    stuff luotu
+
+ stuff/test.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 481d4ac1cfef89ed7a364e22dc9ea9d5a8da8eb6
+Author: Nikita Essine <nikita.essine@helsinki.fi>
+Date:   Wed Nov 3 12:10:22 2021 +0200
+
+    kolmas luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1e19536e4b1b91b9f242d70f948fdf3581e43c54
+Author: Nikita Essine <nikita.essine@helsinki.fi>
+Date:   Wed Nov 3 12:07:35 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit bec62c3422c94a182739b31000925598a7d4e672
+Author: Nikita Essine <nikita.essine@helsinki.fi>
+Date:   Wed Nov 3 12:05:21 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
