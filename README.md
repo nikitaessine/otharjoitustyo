@@ -8,3 +8,7 @@
 
 [komentorivi.txt](https://github.com/nikitaessine/otharjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
+### Projekti:Laskin
+
+[vaatimusmäärittely](https://github.com/nikitaessine/otharjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
+
