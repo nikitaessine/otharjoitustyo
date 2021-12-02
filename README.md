@@ -59,3 +59,21 @@ poetry run invoke coverage-report
 ```
 
 Raportti generoituu _htmlcov_-hakemistoon.
+
+
+
+# Työaikakirjanpito
+
+| päivä | aika | mitä tein  |
+| :----:|:-----| :-----|
+| 10.11. | 2    | projektin aloitus |
+| 15.11. | 1    | alustava README |
+|       | 2    | testien kirjoitus |
+|       | 3    | poetryn asennusongelmien ratkaisu |
+|       | 1    | määrittelydokumentti |
+| 16.11.| 4    | perustoiminnallisuus |
+| 20.11.| 1    | käyttöliittynmän suunnittelu |
+| 30.11 | 1    | käyttöohje |
+|       | 2    | testaus |
+| 2.12  | 2    | formatointi ja pylint opettelu |
+| yht   | 30   | | 
