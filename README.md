@@ -76,4 +76,4 @@ Raportti generoituu _htmlcov_-hakemistoon.
 | 30.11 | 1    | käyttöohje |
 |       | 2    | testaus |
 | 2.12  | 2    | formatointi ja pylint opettelu |
-| yht   | 30   | | 
+| yht   | 19   | | 
